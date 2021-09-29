@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MiguelM145
+- 👋 Hi, I’m Miguel Meza
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning different coding languages
 - 💞️ I’m looking to collaborate on ...
